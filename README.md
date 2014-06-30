@@ -1,7 +1,7 @@
 SkyRe Compatibility and ReProccer Patches
 =====================================
 
-Updates, fixes and support for T3nd0s Skyrim Redone ([SkyRe] (http://www.nexusmods.com/skyrim/mods/9286)) mod.
+Updates, fixes and support for T3nd0s Skyrim Redone ([SkyRe] (http://www.nexusmods.com/skyrim/mods/9286)) and [ReProccer] (http://www.nexusmods.com/skyrim/mods/28467) mods.
 
 [SkyRe Compatibility and ReProccer Patches] (http://www
 .nexusmods.com/skyrim/mods/48629/?) is maintained on the [Nexus] (http://www.nexusmods.com).
